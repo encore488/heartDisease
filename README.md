@@ -6,3 +6,6 @@ help determine the likelihood that a patient will have heart disease. The last t
 maximum heart rate achieved. The data set used is heart_disease.csv, but I have also provided heart.csv for anyone that wishes to use it as a testing set or anything else.
 
 The code and database can be uploaded into Jupyter Notebooks, where this was all created.
+
+
+The files attributable to me: "rCode" is the main file and "heartDisease Summary Report.docx" is a statistical report explaining why I did it that way and evaluating my effectivness.
